@@ -1,7 +1,13 @@
 # A3---Further-Object-Orientated-Programming-CO520-
 
 First Year Module Project
+![Atomic-Bomb-e1577489338694](https://user-images.githubusercontent.com/74104140/98501562-7bcd3300-2247-11eb-8370-176208d0a6ad.jpg)
+## Aim of the game
+The aim of the game is to successfully clear the bomb field in a certain number of moves without stepping on the bomb. 
 
+The number of moves is changed by selecting the difficulty.
+
+## What is in the respository?
 In this repository there is;
 
 • An assignment brief which may be a word doc, pdf.
